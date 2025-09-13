@@ -15,7 +15,10 @@ This project is organized into two main parts, implemented in separate Jupyter n
    - Notebook: `PProductions_EDA.ipynb`  
 
 2. **Project Setup, pt. 2 & Prediction**  
-   - Notebook: `PProductions_Prediction.ipynb`   
+   - Notebook: `PProductions_Prediction.ipynb`
+  
+## Report notebook
+Focuses insights and answers to questions raised in the project.
 
 ## Datasets
 The project uses an enriched version of the IMDb dataset:  
@@ -31,6 +34,7 @@ The project uses an enriched version of the IMDb dataset:
 ```text
 ├── PProductions_EDA.ipynb # Exploratory data analysis
 ├── PProductions_Prediction.ipynb # IMDb rating prediction
+├── Report.ipynb # Focuses insights and answers to questions raised in the project
 ├── desafio_indicium_imdb.csv # Initial IMDb dataset
 ├── imdb_tmdb.csv # Enriched dataset used in the project
 ├── model.pkl # Trained predictive model
