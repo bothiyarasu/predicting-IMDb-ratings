@@ -1,7 +1,6 @@
 # Film Development for PProductions: Predicting IMDb Ratings
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-![Status](https://img.shields.io/badge/Status-Completed-green.svg)
 
 **Author:** Letícia Zorzi Rama  
 
